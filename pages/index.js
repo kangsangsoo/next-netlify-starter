@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          contact rkdtkdtn0706@gmail.com <code>pages/index.js</code>
+          <code>contact rkdtkdtn0706@gmail.com</code>
         </p>
       </main>
 
